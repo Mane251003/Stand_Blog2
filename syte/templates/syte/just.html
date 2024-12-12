@@ -1,0 +1,32 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/cars" method="get"  style="display: inline">
+        <button type="submit">show cars</button>
+    </form>
+    
+    <form action="/toys" method="get", style="display: inline">
+        <button type="submit">show toys</button>
+    </form>
+    <div id="json_data">
+    
+        {%if objects%}
+    
+            <pre>{{ objects|safe }}</pre>
+  
+        {% else %}
+            <p>No data</p>
+        {% endif %}
+    
+    </div>
+    
+    
+</body>
+</html>

@@ -1,0 +1,151 @@
+{
+    "Topic": [
+        {
+            "id": 3,
+            "title": "LifeStyle",
+            "description": "Best Template Website for HTML CSS",
+            "image": "/media/images/banner-item-01_c1Chz81.jpg",
+            "created": "2024-11-16 10:45:55",
+            "information": "Stand Blog is a free HTML CSS template for your CMS theme. You can easily adapt or customize it for any kind of CMS or website builder. You are allowed to use it for your business. You are NOT allowed to re-distribute the template ZIP file on any template collection site for the download purpose. Contact TemplateMo for more info. Thank you.",
+            "contact_links": [
+                "TWITTER",
+                "FACEBOOK"
+            ],
+            "short_desc": "Beauty, Nature",
+            "comments": []
+        },
+        {
+            "id": 7,
+            "title": "LIFESTYLE",
+            "description": "Suspendisse Et Metus",
+            "image": "/media/images/banner-item-03_D0EnQMv.jpg",
+            "created": "2024-11-29 15:00:28",
+            "information": "Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.",
+            "contact_links": [
+                "LINKEDIN",
+                "FACEBOOK"
+            ],
+            "short_desc": "Best Templates, TemplateMo",
+            "comments": []
+        },
+        {
+            "id": 8,
+            "title": "FASHION",
+            "description": "Donec Tincidunt Leo Nec Magna",
+            "image": "/media/images/banner-item-04.jpg",
+            "created": "2024-11-29 15:02:20",
+            "information": "Nullam at quam ut lacus aliquam tempor vel sed ipsum. Donec pellentesque tincidunt imperdiet. Mauris sit amet justo vulputate, cursus massa congue, vestibulum odio. Aenean elit nunc, gravida in erat sit amet, feugiat viverra leo. Phasellus interdum, diam commodo egestas rhoncus, turpis nisi consectetur nibh, in vehicula eros orci vel neque.",
+            "contact_links": [
+                "TWITTER",
+                "FACEBOOK"
+            ],
+            "short_desc": "HTML CSS, Photoshop",
+            "comments": []
+        }
+    ],
+    "blog_template": [
+        {
+            "id": 1,
+            "template_name": "Stand Blog HTML5 Template",
+            "title": "Creative HTML Template For Bloggers!",
+            "button": "Download Now!"
+        }
+    ],
+    "recent_posts": [
+        {
+            "id": 8,
+            "title": "FASHION",
+            "description": "Donec Tincidunt Leo Nec Magna",
+            "image": "images/banner-item-04.jpg",
+            "created": "2024-11-29 15:02:20",
+            "information": "Nullam at quam ut lacus aliquam tempor vel sed ipsum. Donec pellentesque tincidunt imperdiet. Mauris sit amet justo vulputate, cursus massa congue, vestibulum odio. Aenean elit nunc, gravida in erat sit amet, feugiat viverra leo. Phasellus interdum, diam commodo egestas rhoncus, turpis nisi consectetur nibh, in vehicula eros orci vel neque.",
+            "short_desc": "HTML CSS, Photoshop"
+        },
+        {
+            "id": 7,
+            "title": "LIFESTYLE",
+            "description": "Suspendisse Et Metus",
+            "image": "images/banner-item-03_D0EnQMv.jpg",
+            "created": "2024-11-29 15:00:28",
+            "information": "Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.",
+            "short_desc": "Best Templates, TemplateMo"
+        },
+        {
+            "id": 3,
+            "title": "LifeStyle",
+            "description": "Best Template Website for HTML CSS",
+            "image": "images/banner-item-01_c1Chz81.jpg",
+            "created": "2024-11-16 10:45:55",
+            "information": "Stand Blog is a free HTML CSS template for your CMS theme. You can easily adapt or customize it for any kind of CMS or website builder. You are allowed to use it for your business. You are NOT allowed to re-distribute the template ZIP file on any template collection site for the download purpose. Contact TemplateMo for more info. Thank you.",
+            "short_desc": "Beauty, Nature"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categories": "Nature Lifestyle"
+        },
+        {
+            "id": 2,
+            "categories": "Awesome Layouts"
+        },
+        {
+            "id": 3,
+            "categories": "Creative Ideas"
+        },
+        {
+            "id": 4,
+            "categories": "Responsive Templates"
+        },
+        {
+            "id": 5,
+            "categories": "HTML5 / CSS3 Templates"
+        },
+        {
+            "id": 6,
+            "categories": "Creative & Unique"
+        }
+    ],
+    "messages": [
+        {
+            "name": "Karine",
+            "email": "mane.arzumanyan@mail.ru",
+            "subject": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRDn6cmhwkUwOwiEPJQwEvV11qZR8Jm-9LQ&s",
+            "message": "thanks very much, it's usefull",
+            "created": "2024-11-25 18:49:47"
+        },
+        {
+            "name": "Mane",
+            "email": "mane.arzumanyan@mail.ru",
+            "subject": "https://www.planetware.com/wpimages/2020/02/france",
+            "message": "thanks very much",
+            "created": "2024-11-26 00:01:56"
+        },
+        {
+            "name": "Karine",
+            "email": "manearzumanyan03@mail.ru",
+            "subject": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRDn6cmhwkUwOwiEPJQwEvV11qZR8Jm-9LQ&s",
+            "message": "mm",
+            "created": "2024-11-26 10:52:22"
+        },
+        {
+            "name": "in",
+            "email": "manearzumanyan03@mail.ru",
+            "subject": "",
+            "message": "ujn",
+            "created": "2024-12-02 15:55:48"
+        },
+        {
+            "name": "Nane",
+            "email": "manearzumanyan03@mail.ru",
+            "subject": "",
+            "message": "ojojm",
+            "created": "2024-12-02 15:56:16"
+        }
+    ],
+    "contact_info": {
+        "phone_number": "+374904848080",
+        "mail": "info@company.com",
+        "address": "123 Aenean id posuere dui, Praesent laoreet 10660"
+    }
+}

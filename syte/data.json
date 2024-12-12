@@ -1,0 +1,33 @@
+{
+    "download_data": {
+        "template_name": "Stand Blog HTML5 Template",
+        "title": "Creative HTML Template For Bloggers!",
+        "button": "Download Now!"
+    },
+    "item": [
+        {
+            "id": 3,
+            "title": "LifeStyle",
+            "description": "Best Template Website for HTML CSS",
+            "created": "2024-11-16T10:45:55.154715+00:00",
+            "image": "/media/images/banner-item-01_c1Chz81.jpg",
+            "comments": []
+        },
+        {
+            "id": 7,
+            "title": "LIFESTYLE",
+            "description": "Suspendisse Et Metus",
+            "created": "2024-11-29T15:00:28.482564+00:00",
+            "image": "/media/images/banner-item-03_D0EnQMv.jpg",
+            "comments": []
+        },
+        {
+            "id": 8,
+            "title": "FASHION",
+            "description": "Donec Tincidunt Leo Nec Magna",
+            "created": "2024-11-29T15:02:20.926399+00:00",
+            "image": "/media/images/banner-item-04.jpg",
+            "comments": []
+        }
+    ]
+}

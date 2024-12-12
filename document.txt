@@ -1,0 +1,62 @@
+
+Այս պրոյեկտը Django web application է, որը թույլ է տալիս օգտատերերին տեսնել տարբեր թեմաներ, թողնել մեկնաբանություններ, կարդալ տվյալ թեմայի մանրամասները։ Հիմնական ֆունկցիաներն են․ 
+1․ Թեմայի ցուցադրում   (Home)
+  Գլխավոր էջը ցուցադրում է վերջին Topics, Categories, Tags և Contact Links։
+  Ֆունկցիան: index(request)
+  Template: syte/index.html
+
+2․ Տեղեկություն տվյալ էջի մասին   (About us)
+  Path: /about/;
+  Template: syte/about.html;
+  Ֆունկցիան: about(request):
+3․ Բոլոր թեմաները մեկ տեղում    (Blog Entries)
+  Path: /blog/
+  Template: syte/blog.html
+  Ֆունկցիան: blog(request):
+4. Տեղեկություն տվյալ թեմայի մասին, և մեկնաբանության հնարավորություն (Post Details)
+  Path: /post/<id>/
+  Template: syte/post-details.html
+  Ֆունկցիան: post_details(request):
+5․ Կոնտակտային տվյալների ներմուծում  (Contact Us)
+  Path: /contact/
+  Template: syte/contact.html
+  Ֆունկցիան: contact(request):
+6.Օգտատիրոջ գրանցում, մուտք (Sign in/up)
+  Ֆունկցիան: register_(request), 
+    Path: /register/
+    Template: syte/sign.html   
+  Ֆունկցիան: login_(request),
+    Path: /login/
+    Template: syte/login.html
+  Ֆունկցիան: logout_(request):
+    Path: /logout/
+7. Տվյալների ներբեռնում (download_file)
+
+  Օգտատերերը կարող են ներբեռնել կայքի ֆայլերը:
+   
+Քայլեր
+1․Անհրաժեշդ է համակարգչում տեղադրված լինի python3.8 կամ ավելի բարձրը։ 
+2․Բացեք Terminal-ը, և ստեղծեք folder՝ նախագծի ֆայլերը պահպանելու համար։
+mkdir stand_blog_project
+cd stand_blog_project
+3. Տեղադրեք virtual environment
+python -m venv venv
+windows-ի համար՝  venv\Scripts\activate
+linux-ի համար՝  source venv/bin/activate
+4. Տեղադրեք Django-ն
+pip install django
+pip install -r requirements.txt
+5․  Նախագիծը ներբեռնելու քայլեր
+Նախագիծը կստանաք Github-ից, url https://github.com/Mane251003/Stand_Blog
+git clone <https://github.com/Mane251003/Stand_Blog>
+Անցնեք հիմնական ֆոլդեր cd stand_blog
+6․  Տվյալների բազայի պահպանում
+Django-ն պետք է տեղադրի մոդելները տվյալների բազայում։
+python manage.py makemigrations         (Enter)
+python manage.py migrate                        (Enter)
+7. Սերվերի գործարկում
+python manage.py runserver
+8. Մտեք search և գրեք
+http://127.0.0.1:8000
+9․  Ստուգեք ստատիկ ֆայլերը
+python manage.py collectstatic
