@@ -47,8 +47,8 @@ linux-ի համար՝  source venv/bin/activate
 pip install django
 pip install -r requirements.txt
 5․  Նախագիծը ներբեռնելու քայլեր
-Նախագիծը կստանաք Github-ից, url https://github.com/Mane251003/Stand_Blog
-git clone <https://github.com/Mane251003/Stand_Blog>
+Նախագիծը կստանաք Github-ից, url https://github.com/Mane251003/Stand_Blog2/
+git clone <https://github.com/Mane251003/Stand_Blog2.git>
 Անցնեք հիմնական ֆոլդեր cd stand_blog
 6․  Տվյալների բազայի պահպանում
 Django-ն պետք է տեղադրի մոդելները տվյալների բազայում։
